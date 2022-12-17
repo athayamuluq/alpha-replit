@@ -1,7 +1,7 @@
 {
-  "name": "Alphabot-Md",
+  "name": "Torubot",
   "version": "1.6.4",
-  "description": "Alphabot Md, Only update in YouTube ZEEONE OFC",
+  "description": "Hello, this bot made by athayamuluq",
   "main": "zeeone.js",
   "license": "MIT",
   "scripts": {
@@ -14,7 +14,7 @@
     "base",
     "baileys-md"
   ],
-  "author": "ZeeoneOfc",
+  "author": "athayamuluq",
   "license": "MIT",
   "dependencies": {
     "@adiwajshing/baileys": "^4.4.0",
